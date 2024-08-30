@@ -2,38 +2,38 @@
 
 ## Contents
 * [Welcome To The Blvcker Hackathon](##welcome-to-the-blvcker-hackathon)
-  - [Background and Context](###background-and-context)
-  - [Hackathon Schedule](###hackathon-schedule)
-  - [Rules](###rules)
-  - [Perks and Prizes](###perks-and-prizes)
-  - [FAQs](###faqs)
-  - [Housekeeping](###housekeeping)
-  - [Tips](###tips)
+    - [Background and Context](###background-and-context)
+    - [Hackathon Schedule](###hackathon-schedule)
+    - [Rules](###rules)
+    - [Perks and Prizes](###perks-and-prizes)
+    - [FAQs](###faqs)
+    - [Housekeeping](###housekeeping)
+    - [Tips](###tips)
 * [Teams](##teams)
 * [Building](##building)
-  - [What to Build](###what-to-build)
-    + [Core Features](####core-features)
-    + [Comlpementary Features](####complementary-features)
+    - [Resources](###resources)
+    - [What to Build](###what-to-build)
+        + [Core Features](####core-features)
+        + [Comlpementary Features](####complementary-features)
 * [Projects and Submissions](##projects-and-submissions)
-  - [Example Project Tree Structure](###example-project-tree-structure)
-  - [Project Folder and Files Overview](###project-folder-and-file-overview)
-  - [Ways to Submit](###ways-to-submit)
-    + [Create A Branch in the Blvcker Hackathon Repo](####create-a-branch-in-the-blvcker-hackathon-repo)
-    + [Upload Project to Google Drive](####upload-project-to-google-drive)
-  - [How Projects are Evaluated](###how-projects-are-evaluated)
+    - [Example Project Tree Structure](###example-project-tree-structure)
+    - [Project Folder and Files Overview](###project-folder-and-file-overview)
+    - [Ways to Submit](###ways-to-submit)
+        + [Create A Branch in the Blvcker Hackathon Repo](####create-a-branch-in-the-blvcker-hackathon-repo)
+        + [Upload Project to Google Drive](####upload-project-to-google-drive)
+    - [How Projects are Evaluated](###how-projects-are-evaluated)
 * [Presentations](##presentations)
-  - [Preparing Your Presentation](###preparing-your-presentation)
-  - [Delivering Your Presentation](###delivering-your-presentation)
+    - [Preparing Your Presentation](###preparing-your-presentation)
+    - [Delivering Your Presentation](###delivering-your-presentation)
 * [Configuration](##configuration)
     - [Installing Unity](###installing-unity)
         + [On Windows](####on-windows)
         + [On Mac](####on-windows)
     - [Installing Git](###installing-git)
-* [Resources](##resources)
 * [Credits](##credits)
-  - [Sponsors](###sponsors)
-  - [Blvcker Team](###blvcker-team)
-  - [Mentors](###mentors)
+    - [Sponsors](###sponsors)
+    - [Blvcker Team](###blvcker-team)
+    - [Mentors](###mentors)
 
 ## Welcome to the Blvcker Hackathon
 
@@ -106,7 +106,7 @@ We’re calling all software developers, UI/UX designers, project managers, and 
 * Submission Requirements:
     - There are 2 ways to submit
         + Make a branch on the [Blvcker Hackathon repository](https://github.com/BlvckerOwner/blvckerhackathon)
-        + Upload project to [Blvcker Project Submission Drive]()
+        + Upload project to [Blvcker Project Submission Drive](https://drive.google.com/drive/folders/1pOBiKj6Sow7NIbx2uY9IHfr9ExVh7G2M?usp=drive_link)
     - Short Description of Project
     - Demo video (3 minute max)
     - Presentation slides.
@@ -161,6 +161,14 @@ We’re calling all software developers, UI/UX designers, project managers, and 
 * ♣️ Clubs
 
 ## Building
+
+### Resources
+* [Assets, Templates, and Resources folder](https://github.com/BlvckerOwner/blvckerhackathon/tree/main/resources)
+* [Blvker Figma Boards](https://www.figma.com/design/WOd89pNAEzfX9gSHwnhZsf/Hackathon-Image?node-id=0-1&t=NUICqJZlk131CaDj-0)
+* [Blvcker Hackathon repository](https://github.com/BlvckerOwner/blvckerhackathon) 
+* [Blvcker Discord](https://discord.gg/pegX9NjM)
+* [Cursor: AI Code Editor](https://cursor.com)
+* [Blvcker Project Submission Drive](https://drive.google.com/drive/folders/1pOBiKj6Sow7NIbx2uY9IHfr9ExVh7G2M?usp=drive_link)
 
 ### What To Build?
 
@@ -222,7 +230,7 @@ We’re calling all software developers, UI/UX designers, project managers, and 
         + Challenges/Obstacles
         + Basic instructions on how to run/test your code
             * This only applies to teams who wrote code.
-    - There is a README template in the [Assets, Templates, and Resources folder]()
+    - There is a README template in the [Assets, Templates, and Resources folder](https://github.com/BlvckerOwner/blvckerhackathon/tree/main/resources)
 * `presentation` folder
     - Contains the team's presentation file.
         + Use this naming convention: `BLVCKERHACKER_BITCON24_TEAMNAME_PRES.pdf`
@@ -254,7 +262,7 @@ Familiar with GitHub? Awesome.
 ##### Upload Project to Google Drive
 Not overly familiar with Git? No problem. 
 
-Prepare an organized folder of your project and upload to the [Blvcker Project Submission Drive](). Please use this naming format for submissions: `BLVCKERHACKER_BITCON24_TEAMNAME_PROJECT`
+Prepare an organized folder of your project and upload to the [Blvcker Project Submission Drive](https://drive.google.com/drive/folders/1pOBiKj6Sow7NIbx2uY9IHfr9ExVh7G2M?usp=drive_link). Please use this naming format for submissions: `BLVCKERHACKER_BITCON24_TEAMNAME_PROJECT`
 
 ### How Projects are Evaluated
 * Technical Implementation (25%)
@@ -321,14 +329,6 @@ Prepare an organized folder of your project and upload to the [Blvcker Project S
 * Check contents of repository
     - On Mac: `ls`
     - On Windows: `dir`
-
-## Resources
-* [Assets, Templates, and Resources folder]()
-* [Blvker Figma Boards](https://www.figma.com/design/WOd89pNAEzfX9gSHwnhZsf/Hackathon-Image?node-id=0-1&t=NUICqJZlk131CaDj-0)
-* [Blvcker Hackathon repository](https://github.com/BlvckerOwner/blvckerhackathon) 
-* [Blvcker Discord](https://discord.gg/pegX9NjM)
-* [Cursor: AI Code Editor](https://cursor.com)
-* [Blvcker Project Submission Drive]()
 
 ## Credits
 ### Sponsors
