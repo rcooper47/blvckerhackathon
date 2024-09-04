@@ -1,18 +1,18 @@
 ---
 date: 2024 August 4
-description: README for Team Spades
+description: README for Team Diamonds
 ---
 
 *Please tailor this document to fit your team's content.*
 
-# <TEAM-EMOJI=♠️>: <TITLE-OF-PROJECT>
+# ♦️ I Got Next!
 
 ## Project Theme
-* Core Feature: Feature Name OR Complementary Feature: Feature Name
+* Core Feature: Queueing System Feature: Feature Name
 
 ## Links
 * Project
-    - [Github Branch]() OR [Drive Submission Link]()
+    - [Github Branch](https://github.com/rcooper47/blvckerhackathon/) & [Drive Submission Link]()
 * Demo Video
     - []()
 * Presentation
@@ -23,7 +23,9 @@ description: README for Team Spades
 
 | Member Name                  | Role/Function     |
 |------------------------------|-------------------|
-| <First Name, Last Name>      | <Role>            |
+| Jonathan Mckinney            | Project Manager   |
+| Ryan Cooper                  | Engineer          |
+| Oseriemen Ivbaze             | Engineer          |
 
 ## Solution
 
