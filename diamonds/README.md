@@ -1,5 +1,5 @@
 ---
-date: 2024 August 4
+date: 2024 September 4
 description: README for Team Diamonds
 ---
 
